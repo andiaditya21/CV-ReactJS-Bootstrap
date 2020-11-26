@@ -23,14 +23,14 @@ export default function Navbar() {
                         <a className="nav-link text-white" href="#about">About</a>
                         </li>
                         <li className="nav-item p-2">
-                        <a className="nav-link text-white" href="javascript:work()">Work Experience</a>
+                        <a className="nav-link text-white" href="#main">Main</a>
                         </li>
                         <li className="nav-item p-2">
-                        <a className="nav-link text-white" href="javascript:educate()">Education</a>
+                        <a className="nav-link text-white" href="#project">Project</a>
                         </li>
-                        <li className="nav-item p-2">
+                        {/* <li className="nav-item p-2">
                         <a className="nav-link text-white" href="javascript:skill()">Skill</a>
-                        </li>
+                        </li> */}
                     </ul>
                     </div>
                 </div>

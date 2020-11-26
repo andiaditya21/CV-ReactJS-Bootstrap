@@ -1,0 +1,42 @@
+ul#myTab {
+    border-bottom: 1px solid grey !important;
+}
+
+ul li a:hover {
+    background-color: #ff9800;
+    border: 1px solid grey !important;
+}
+
+ul li a.active {
+    background-color: #ff9800 !important;
+    color: white !important;
+    border: 1px solid grey !important;
+}
+
+ul li a {
+    color: white !important;
+}
+
+.container ul#myTab {
+    padding-top: 45px;
+}
+
+section.educate h6,
+section.work h6,
+.skill .card-body p {
+    font-size: 0.83em;
+}
+
+section.educate li,
+section.work li {
+    margin-bottom: 25px;
+}
+
+.skill .card {
+    background-color: rgb(41, 41, 41);
+}
+
+.skill .card:hover {
+    box-shadow: 0 0 5px 3px grey;
+}
+
