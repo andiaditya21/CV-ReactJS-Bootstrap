@@ -1,0 +1,110 @@
+/* html {
+    scroll-behavior: smooth;
+} */
+
+body {
+    height: 1000px;
+    background-color: rgb(41, 41, 41);
+    padding-top: 80px;
+    font-family: 'Montserrat', Arial, serif;
+}
+
+/* navbar */
+nav {
+    background-color: rgb(41, 41, 41) !important;
+  }
+
+.navbar-toggler {
+    background-color: white;
+}
+
+nav ul li {
+    font-family: 'Lora', Arial, serif;
+}
+
+nav li a:hover {
+    background-color: #FF9800;
+}
+
+nav ul li.active a {
+    color: #FF9800 !important;   
+}
+
+nav li.active a:hover {
+    color: white !important;
+}
+/* akhir navbar */
+
+
+/* jumbotron */
+.jumbotron {
+    /* margin-top: 65px; */
+    padding-top: 30px;
+    background-color: rgb(41, 41, 41);
+}
+
+.jumbotron h1 {
+    letter-spacing: 4px;
+    font-size: 1.5em;
+}
+
+.jumbotron p {
+    line-height: 25px;
+}
+
+.sosmed img {
+    width: 25px;
+    height: 25px;
+    opacity: .3;
+}
+
+.sosmed a:hover img {
+    opacity: 1;
+}
+/* akhir jumbotron */
+
+/* work experience, education, skill */
+section.work h3,
+section.educate h3,
+aside.skill h3 {
+    color: #ff9850;
+    border-bottom: 1px solid grey;
+    padding-top: 100px;
+} 
+
+.work h5,
+.educate h5 {
+    margin-bottom: 15px;
+    font-size: 0.83em;
+}
+
+.work h6,
+.educate h6 {
+    font-size: 0.83em;
+}
+
+.skill .some-skill img {
+    width: 80px;
+}
+/* akhir work experience, education, skill */
+
+/* contact */
+form {
+    background-color: #71C9CE;
+}
+
+form h3,
+form p {
+    text-align: center;
+}
+/* akhir contact */
+
+/* footer */
+footer {
+    font-family: 'Lora', Arial, serif;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
+/* akhir footer */
