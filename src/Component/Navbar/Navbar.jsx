@@ -1,4 +1,5 @@
 import React from 'react'
+
 import Logo from '../../asset/0,75x.png'
 import './Navbar.css'
 
@@ -19,7 +20,7 @@ export default function Navbar() {
                         <a className="nav-link text-white" href="#">Home <span className="sr-only">(current)</span></a>
                         </li>
                         <li className="nav-item p-2">
-                        <a className="nav-link text-white" href="javascript:about()">About</a>
+                        <a className="nav-link text-white" href="#about">About</a>
                         </li>
                         <li className="nav-item p-2">
                         <a className="nav-link text-white" href="javascript:work()">Work Experience</a>

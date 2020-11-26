@@ -1,0 +1,24 @@
+.jumbotron {
+    /* margin-top: 65px; */
+    padding-top: 30px;
+    background-color: rgb(41, 41, 41);
+}
+
+.jumbotron h1 {
+    letter-spacing: 4px;
+    font-size: 1.5em;
+}
+
+.jumbotron p {
+    line-height: 25px;
+}
+
+.sosmed img {
+    width: 25px;
+    height: 25px;
+    opacity: .3;
+}
+
+.sosmed a:hover img {
+    opacity: 1;
+}
