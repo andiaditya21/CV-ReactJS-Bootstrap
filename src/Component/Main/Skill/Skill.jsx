@@ -11,8 +11,8 @@ export default function Skill(props) {
                             {props.title}
                         </p>
                     </div>
-                    <div class="progress">
-                        <div class="progress-bar" role="progressbar" style={{width: `${props.progress}`}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">{props.progress}</div>
+                    <div className="progress">
+                        <div className="progress-bar" role="progressbar" style={{width: `${props.progress}`}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">{props.progress}</div>
                     </div>
                 </div>
         </>

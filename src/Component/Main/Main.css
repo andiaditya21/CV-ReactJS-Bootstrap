@@ -32,11 +32,13 @@ section.work li {
     margin-bottom: 25px;
 }
 
-.skill .card {
+.skill .card,
+.project .card {
     background-color: rgb(41, 41, 41);
 }
 
-.skill .card:hover {
+.skill .card:hover,
+.project .card:hover {
     box-shadow: 0 0 5px 3px grey;
 }
 

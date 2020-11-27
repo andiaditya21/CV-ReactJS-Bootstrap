@@ -17,7 +17,7 @@ import Img_8 from '../../asset/AdobePhotoshop.png'
 export default function Main() {
     return (
     <>
-    <ul className="nav nav-tabs justify-content-center" id="main" role="tablist">
+    <ul className="nav nav-tabs justify-content-center" role="tablist">
         <li className="nav-item mx-5" role="presentation">
             <a className="nav-link active" id="education-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Education</a>
         </li>
@@ -91,8 +91,6 @@ export default function Main() {
                     />
                 </div>
             </div>
-            
-            
         </div>
     </div>
     </>
