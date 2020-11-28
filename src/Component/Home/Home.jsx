@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from '../Footer/Footer'
 import Main from '../Main/Main'
 import Navbar from '../Navbar/Navbar'
 import Profile from '../Profile/Profile'
@@ -12,9 +13,10 @@ export default function Home() {
             <div className="container" id="main" style={{paddingTop: 100}}>
                 <Main/>
             </div>
-            <div className="container project" id="project" style={{paddingTop: 80}}>
+            <div className="container project" id="project" style={{paddingTop: 100}}>
                 <ProjectList/>
             </div>
+            <Footer/>
         </>
     )
 }

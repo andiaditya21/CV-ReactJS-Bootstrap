@@ -49,14 +49,14 @@ export default function Main() {
                 </div>
                 <div className="d-flex col-md-3 justify-content-center">
                     <Skill 
-                    img={Img_4} 
+                    img={Img_3} 
                     title="HTML, CSS, JS (React JS)"
                     progress="80%"
                     />
                 </div>
                 <div className="d-flex col-md-3 justify-content-center">
                     <Skill 
-                    img={Img_3} 
+                    img={Img_4} 
                     title="Microsoft Office" progress="80%"
                     />
                 </div>
