@@ -1,8 +1,5 @@
 import React, { Component } from 'react'
-<<<<<<< HEAD
 import Zoom from 'react-reveal/Zoom'
-=======
->>>>>>> 37e474f2b09a3d1dcdf2a1062f5e023d6b4280fd
 
 import Project_08 from '../../asset/project/BRImo (Admin).jpg'
 import Project_01 from '../../asset/project/havefun.project 1.png'
