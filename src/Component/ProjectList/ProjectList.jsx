@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+
+import Project_08 from '../../asset/project/BRImo (Admin).jpg'
 import Project_01 from '../../asset/project/havefun.project 1.png'
 import Project_02 from '../../asset/project/B10 Team Digital Kominfo.png'
 import Project_03 from '../../asset/project/Unicycle1.jpeg'
@@ -24,6 +26,10 @@ export default class ProjectList extends Component {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <div className="row p-3">
+                                <Project 
+                                img={Project_08} title="UI / UX Design Web BRImo (Admin)"
+                                target="project_08"
+                                />
                                 <Project
                                 img={Project_01} 
                                 title="UI / UX Design Web Panduan Rute Bus dalam Kota"
@@ -34,14 +40,14 @@ export default class ProjectList extends Component {
                                 title="UI Design Web Profile B10 Team DTS 2020"
                                 target="project_02"
                                 />
-                                <Project 
-                                img={Project_03} title="Unicycle Robot Using MPU6050 Sensor"
-                                target="project_03"
-                                />
                             </div>
                         </div>
                         <div className="carousel-item">
                             <div className="row project p-3">
+                                <Project 
+                                img={Project_03} title="Unicycle Robot Using MPU6050 Sensor"
+                                target="project_03"
+                                />
                                 <Project 
                                 img={Project_04} title="Unicycle Robot Design"
                                 target="project_04"
@@ -50,23 +56,19 @@ export default class ProjectList extends Component {
                                 img={Project_05} title="Obstacle Avoiding Robot Using Ultrasonic Sensor"
                                 target="project_05"
                                 />
-                                <Project 
-                                img={Project_06} title="Kontrol Temperature Wadah berdasarkan Reservoir Luar"
-                                target="project_06"
-                                />
                             </div>
                         </div>
                         <div className="carousel-item">
                             <div className="row project p-3">
                                 <Project 
+                                img={Project_06} title="Kontrol Temperature Wadah berdasarkan Reservoir Luar"
+                                target="project_06"
+                                />
+                                <Project 
                                 img={Project_07} title="Wirausaha Makanan Ringan 'Makribo'"
                                 target="project_07"
                                 />
                                 {/* <Project 
-                                img={Project_04} title="Unicycle Robot"
-                                target="project_04"
-                                />
-                                <Project 
                                 img={Project_05} title="Unicycle Robot Design"
                                 target="project_05"
                                 /> */}
