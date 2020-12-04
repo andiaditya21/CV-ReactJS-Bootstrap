@@ -18,9 +18,7 @@ export default function Home() {
                 </Fade>
             </div>
             <div className="container project" id="project" style={{paddingTop: 100}}>
-                <Fade bottom>
                     <ProjectList/>
-                </Fade>
             </div>
             <Footer/>
         </>

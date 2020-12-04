@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Zoom from 'react-reveal/Zoom'
 
 import Project_08 from '../../asset/project/BRImo (Admin).jpg'
 import Project_01 from '../../asset/project/havefun.project 1.png'
@@ -16,7 +17,9 @@ export default class ProjectList extends Component {
     render() {
         return (
             <>
-                <h5 className="text-white text-center">Project</h5>
+                <Zoom bottom>
+                    <h5 className="text-white text-center">Project</h5>
+                </Zoom>
                     <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
                     <ol className="carousel-indicators mb-0">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
