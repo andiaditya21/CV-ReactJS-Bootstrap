@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/CV-ReactJS-Bootstrap/static/css/main.1531a8c7.chunk.css",
+    "main.js": "/CV-ReactJS-Bootstrap/static/js/main.c4a41ca4.chunk.js",
+    "main.js.map": "/CV-ReactJS-Bootstrap/static/js/main.c4a41ca4.chunk.js.map",
+    "runtime-main.js": "/CV-ReactJS-Bootstrap/static/js/runtime-main.cbef6ae5.js",
+    "runtime-main.js.map": "/CV-ReactJS-Bootstrap/static/js/runtime-main.cbef6ae5.js.map",
+    "static/js/2.10403f3b.chunk.js": "/CV-ReactJS-Bootstrap/static/js/2.10403f3b.chunk.js",
+    "static/js/2.10403f3b.chunk.js.map": "/CV-ReactJS-Bootstrap/static/js/2.10403f3b.chunk.js.map",
+    "static/js/3.1b386599.chunk.js": "/CV-ReactJS-Bootstrap/static/js/3.1b386599.chunk.js",
+    "static/js/3.1b386599.chunk.js.map": "/CV-ReactJS-Bootstrap/static/js/3.1b386599.chunk.js.map",
+    "index.html": "/CV-ReactJS-Bootstrap/index.html",
+    "static/css/main.1531a8c7.chunk.css.map": "/CV-ReactJS-Bootstrap/static/css/main.1531a8c7.chunk.css.map",
+    "static/js/2.10403f3b.chunk.js.LICENSE.txt": "/CV-ReactJS-Bootstrap/static/js/2.10403f3b.chunk.js.LICENSE.txt",
+    "static/media/AdobePhotoshop.7ec2add5.png": "/CV-ReactJS-Bootstrap/static/media/AdobePhotoshop.7ec2add5.png",
+    "static/media/B10 Team Digital Kominfo.1ccf7260.png": "/CV-ReactJS-Bootstrap/static/media/B10 Team Digital Kominfo.1ccf7260.png",
+    "static/media/BRImo (Admin).403a2057.jpg": "/CV-ReactJS-Bootstrap/static/media/BRImo (Admin).403a2057.jpg",
+    "static/media/Biogas.98e05a78.jpg": "/CV-ReactJS-Bootstrap/static/media/Biogas.98e05a78.jpg",
+    "static/media/Group 8.adcd822d.png": "/CV-ReactJS-Bootstrap/static/media/Group 8.adcd822d.png",
+    "static/media/Makribo.579568b0.jpeg": "/CV-ReactJS-Bootstrap/static/media/Makribo.579568b0.jpeg",
+    "static/media/Obstacle avoiding robot.665d8e53.png": "/CV-ReactJS-Bootstrap/static/media/Obstacle avoiding robot.665d8e53.png",
+    "static/media/SketchUp.85de6d0e.png": "/CV-ReactJS-Bootstrap/static/media/SketchUp.85de6d0e.png",
+    "static/media/Unicycle Design.231d7df0.jpg": "/CV-ReactJS-Bootstrap/static/media/Unicycle Design.231d7df0.jpg",
+    "static/media/Unicycle1.7caa1aa7.jpeg": "/CV-ReactJS-Bootstrap/static/media/Unicycle1.7caa1aa7.jpeg",
+    "static/media/adobe-xd.866afe70.png": "/CV-ReactJS-Bootstrap/static/media/adobe-xd.866afe70.png",
+    "static/media/allen-bradley.e33f9297.png": "/CV-ReactJS-Bootstrap/static/media/allen-bradley.e33f9297.png",
+    "static/media/arduino.0dba5117.png": "/CV-ReactJS-Bootstrap/static/media/arduino.0dba5117.png",
+    "static/media/cv.0d3fffcd.pdf": "/CV-ReactJS-Bootstrap/static/media/cv.0d3fffcd.pdf",
+    "static/media/figma.e3eda632.png": "/CV-ReactJS-Bootstrap/static/media/figma.e3eda632.png",
+    "static/media/havefun.project 1.7028a473.png": "/CV-ReactJS-Bootstrap/static/media/havefun.project 1.7028a473.png",
+    "static/media/instagram.203ca2cd.png": "/CV-ReactJS-Bootstrap/static/media/instagram.203ca2cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbef6ae5.js",
+    "static/js/2.10403f3b.chunk.js",
+    "static/css/main.1531a8c7.chunk.css",
+    "static/js/main.c4a41ca4.chunk.js"
+  ]
+}
